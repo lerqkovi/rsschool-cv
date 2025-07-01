@@ -35,3 +35,9 @@ class App {
     }
 }
 ```
+
+****
+
+Languages:
+
+English,Russian,Belarussian
